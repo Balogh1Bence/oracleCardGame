@@ -9,7 +9,7 @@ namespace oracle
     public class Card 
     {
         private GroupBox cardHolder;
-        private PictureBox cardImage;       
+        public PictureBox cardImage;       
         private AlphaUtils.AlphaRichTextBox cardHealth;
         private AlphaRichTextBox cardAttack;
         private AlphaRichTextBox cardDef;
@@ -39,6 +39,14 @@ namespace oracle
 
             cardHolder.Controls.Add(cardImage);
             cardHolder.Controls.Add(cardHealth);
+            loadStats(health, attack, defense);
+        }
+        public string imagePath { get { return imagePath; } set => cardImage.ImageLocation = value; }
+        public void loadStats(int health, int attack, int def)
+        {
+            cardHealth.Text = health.ToString();
+            cardDef.Text = defense.ToString();
+            cardAttack.Text = attack.ToString();
         }
         
     }

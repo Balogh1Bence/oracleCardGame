@@ -1,0 +1,10 @@
+C:\Users\bbalogh\source\repos\oracle\oracle\bin\Debug\oracle.exe.config
+C:\Users\bbalogh\source\repos\oracle\oracle\bin\Debug\oracle.exe
+C:\Users\bbalogh\source\repos\oracle\oracle\bin\Debug\oracle.pdb
+C:\Users\bbalogh\source\repos\oracle\oracle\obj\Debug\oracle.csprojAssemblyReference.cache
+C:\Users\bbalogh\source\repos\oracle\oracle\obj\Debug\oracle.Form1.resources
+C:\Users\bbalogh\source\repos\oracle\oracle\obj\Debug\oracle.Properties.Resources.resources
+C:\Users\bbalogh\source\repos\oracle\oracle\obj\Debug\oracle.csproj.GenerateResource.cache
+C:\Users\bbalogh\source\repos\oracle\oracle\obj\Debug\oracle.csproj.CoreCompileInputs.cache
+C:\Users\bbalogh\source\repos\oracle\oracle\obj\Debug\oracle.exe
+C:\Users\bbalogh\source\repos\oracle\oracle\obj\Debug\oracle.pdb
